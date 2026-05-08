@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Baby Bird</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f7f6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 30px 50px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #2980b9;
+            margin-top: 30px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            margin-bottom: 15px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #7f8c8d;
+        }
+        @media (max-width: 600px) {
+            .container {
+                margin: 20px;
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>Effective Date:</strong> May 8, 2026</p>
+        
+        <p>Moraf Games ("we", "our", or "us") operates the <strong>Baby Bird</strong> mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
+
+        <h2>1. Information Collection and Use</h2>
+        <p>We build our games to respect your privacy. We collect minimal information required to provide and improve our Service.</p>
+        
+        <ul>
+            <li><strong>Game Data (Local):</strong> Data such as your high scores, collected coins, and settings (sound/vibration) are stored locally on your device. We do not transmit this gameplay data to our servers.</li>
+            <li><strong>Pro Version Activation:</strong> If you choose to unlock the "Ultimate Pro Edition" using an activation key, our Service securely transmits your hardware's anonymous Device ID to our server (<em>baby-bird.moraf.in</em>). This is used strictly to validate the license key and lock it to your specific device to prevent piracy. No personal identifiers (like your name or email) are collected during this process.</li>
+        </ul>
+
+        <h2>2. Third-Party Services</h2>
+        <p>The Service may use third-party libraries (such as Google Play Services) that may collect information used to identify you for analytics or crash reporting purposes. These third-party services have their own Privacy Policies addressing how they use such information.</p>
+
+        <h2>3. Data Security</h2>
+        <p>The security of your data is important to us. When validating Pro licenses, all communications between the Baby Bird app and our servers are encrypted using standard web protocols (HTTPS) and custom payload encryption. However, remember that no method of transmission over the internet, or method of electronic storage, is 100% secure.</p>
+
+        <h2>4. Children's Privacy</h2>
+        <p>Our Service does not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
+
+        <h2>5. Changes to This Privacy Policy</h2>
+        <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+
+        <h2>6. Contact Us</h2>
+        <p>If you have any questions about this Privacy Policy, or if you need support with your Pro Activation Key, please contact us:</p>
+        <ul>
+            <li><strong>Email:</strong> <a href="mailto:support@moraf.in">support@moraf.in</a></li>
+            <li><strong>Website:</strong> <a href="https://developers.moraf.in" target="_blank">developers.moraf.in</a></li>
+        </ul>
+
+        <div class="footer">
+            &copy; 2026 Moraf Games. All rights reserved.
+        </div>
+    </div>
+
+</body>
+</html>
